@@ -4,7 +4,7 @@
 
 ##### Youtube(CodeXam)
 
-![Instagram Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw/featured)
 
 ##### My instagram
 
