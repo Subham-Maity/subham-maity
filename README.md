@@ -3,10 +3,15 @@
 #### I am Subham, I am a Founder of CodeXam || Youtuber || Author of Beginner-Friendly Free Books || Explorer || Coding Enthusiast
 
 ##### Youtube(CodeXam)
+
 ![Instagram Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw)
+
 ##### My instagram
-![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/subham_xam/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/subham_xam/)](www.instagram.com/subham_xam)
+
 ##### CodeXam instagram
+
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/code.xam/)
 
 ### Contact Me
