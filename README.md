@@ -1,4 +1,4 @@
-# Hey, buddy! Great to see you here! <img src="https://github.com/Subham-Maity/subham-maity/blob/master/src/2.gif?raw=true" width="70px">
+# Hey, buddy! Great to see you here! <img src="https://github.com/Subham-Maity/subham-maity/blob/master/src/panda.gif?raw=true" width="70px">
 
 #### I am Subham, I am a Founder of CodeXam || Youtuber || Author of Beginner-Friendly Free Books || Explorer || Coding Enthusiast
 
