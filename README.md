@@ -8,11 +8,11 @@
 
 ##### My instagram
 
-[![Twitter](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/subham_xam/)
+[![insta](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/subham_xam/)
 
 ##### CodeXam instagram
+[![insta](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/code.xam/)
 
-[![Twitter](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](www.instagram.com/code.xam/)
 
 ### Contact Me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:maitysubham4041@gmail.com)
