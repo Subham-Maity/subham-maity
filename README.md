@@ -8,7 +8,7 @@
 
 ##### My instagram
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/subham_xam/)](www.instagram.com/subham_xam)
+[![Twitter](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/subham_xam/)
 
 ##### CodeXam instagram
 
