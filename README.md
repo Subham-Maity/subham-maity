@@ -1,8 +1,22 @@
-# Hey, buddy! Great to see you here! <img src="https://github.com/Subham-Maity/subham-maity/blob/master/src/panda.gif?raw=true" width="70px">
-
-
-## I am Subham, I am a Founder of CodeXam || Youtuber || Author of Beginner-Friendly Free Books || Explorer || Coding Enthusiast
-
+<div align="center">
+    <h1>Hai, I am <a href="https://aromalanil.in" target="_blank">Aromal</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+    <br/><br/>
+    <p>🙏🏻 Welcome to my Github profile!<br />
+        I am a <b>Blockchain developer</b> 🚀 from <b>Kolkata, India</b> <img
+            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+    <div>
+        <a href="https://twitter.com/code_xam" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/subham-xam/" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:maitysubham4041@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        </div>
+</div>
 
 
 ##### Youtube(CodeXam)
