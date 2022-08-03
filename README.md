@@ -71,8 +71,7 @@
 <a href="https://github.com/Subham-Maity/ethereum-tutorial">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=ethereum-tutorial&theme=tokyonight" /></a>
 <a href="https://github.com/Subham-Maity/html-tutorial-for-beginners">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=html-tutorial-for-beginners
-&theme=tokyonight" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=html-tutorial-for-beginners&theme=tokyonight" /></a>
         </p>
     </div>
    
