@@ -15,7 +15,11 @@
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:maitysubham4041@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+       <a href="https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw/featured" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
         </div>
+       
 </div>
 
 <div>
@@ -95,7 +99,6 @@
 ### Language
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
