@@ -62,8 +62,14 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=textutils&theme=tokyonight" /></a>
 <a href="https://github.com/Subham-Maity/hostel-management-system">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=hostel-management-system&theme=tokyonight" /></a>
+<a href="https://github.com/Subham-Maity/RandomSentenceGenerator">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=RandomSentenceGenerator&theme=tokyonight" /></a>
+<a href="https://github.com/Subham-Maity/xamnewz">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=xamnewz&theme=tokyonight" /></a>
 <a href="https://github.com/Subham-Maity/cryptoapp">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=cryptoapp&theme=tokyonight" /></a>
+<a href="https://github.com/Subham-Maity/Android-Basic-Apps-Java">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=Android-Basic-Apps-Java&theme=tokyonight" /></a>
 <a href="https://github.com/Subham-Maity/Blockchain-Book-vol2">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=Blockchain-Book-vol2&theme=tokyonight" /></a>
 <a href="https://github.com/Subham-Maity/solidity-tutorial">
