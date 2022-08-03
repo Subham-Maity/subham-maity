@@ -51,7 +51,26 @@
                 width="48" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
-     <div>
+    
+   
+
+
+
+[![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
+
+
+
+
+
+
+
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
+
+ <div>
         <h2><img align="center" width="35"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
@@ -80,25 +99,8 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=html-tutorial-for-beginners&theme=tokyonight" /></a>
         </p>
     </div>
-   
 
 
-
-[![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
-
-
-
-
-
-
-
-<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
-
-## 📈 Stats
 <div>
     <h2><img align="center" width="35"
             src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
