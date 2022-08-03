@@ -5,8 +5,7 @@
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Blockchain developer</b> 🚀 from <b>Kolkata, India</b> <img
-            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I am a <b>Blockchain developer</b> 🚀 from <b>Kolkata, India</b>
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
     <div>
         <a href="https://twitter.com/code_xam" target="_blank"><img alt="Twitter"
