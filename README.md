@@ -70,6 +70,26 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
+
+
+
+<div>
+    <h2><img align="center" width="35"
+            src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
+    
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subham-Maity&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight" />
+</p>  
+</div>
+
  <div>
         <h2><img align="center" width="35"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
@@ -99,24 +119,6 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=html-tutorial-for-beginners&theme=tokyonight" /></a>
         </p>
     </div>
-
-
-<div>
-    <h2><img align="center" width="35"
-            src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
-    
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subham-Maity&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight" />
-</p>  
-</div>
 
 
 
