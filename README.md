@@ -93,7 +93,10 @@
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
 ## 📈 Stats
-
+<div>
+    <h2><img align="center" width="35"
+            src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
+    
 <table>
 <tr>
 <td>
@@ -104,7 +107,11 @@
 </table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight" />
-</p>
+</p>  
+</div>
+
+
+
 
 
 
