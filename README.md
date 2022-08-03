@@ -2,6 +2,7 @@
 
 
 ## I am Subham, I am a Founder of CodeXam || Youtuber || Author of Beginner-Friendly Free Books || Explorer || Coding Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshij7&label=Profile%20views&color=0e75b6&style=flat" alt="subham-maity" /> </p>
 
 
 ##### Youtube(CodeXam)
