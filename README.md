@@ -69,23 +69,6 @@
         </p>
     </div>
    
-##### Youtube(CodeXam)
-
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw/featured)
-
-##### My instagram
-
-[![insta](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/subham_xam/)
-
-##### CodeXam instagram
-[![insta](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/code.xam/)
-
-
-### Contact Me
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maitysubham4041@gmail.com)](mailto:maitysubham4041@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subham-xam/)](https://www.linkedin.com/in/subham-xam/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/code_xam)
-
 
 
 
