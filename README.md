@@ -51,28 +51,26 @@
                 width="48" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
-    <div>
+     <div>
         <h2><img align="center" width="35"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
         <p align="center">
-            <a href="https://github.com/aromalanil/whatsend">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/get-ascii-image">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/markitdown">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/unchat_frontend">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=dark" /></a>
+            <a href="https://github.com/Subham-Maity/twitter-blockchain-web3">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=twitter-blockchain-web3&theme=tokyonight" /></a>
+<a href="https://github.com/Subham-Maity/twitter-blockchain-web3">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=twitter-blockchain-web3&theme=tokyonight" /></a>
+<a href="https://github.com/Subham-Maity/twitter-blockchain-web3">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=twitter-blockchain-web3&theme=tokyonight" /></a>
+<a href="https://github.com/Subham-Maity/twitter-blockchain-web3">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=twitter-blockchain-web3&theme=tokyonight" /></a>
         </p>
     </div>
    
 
 
 
-[![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=xcode)](https://github.com/Subham-Maity)
+[![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
 
 
 
