@@ -57,6 +57,10 @@
 
 
 [![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subham-Maity&column=8&theme=onedark" />
+</div>
+<br/>
 
 
 
