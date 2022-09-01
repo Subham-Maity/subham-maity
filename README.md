@@ -6,7 +6,7 @@
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Blockchain developer</b> 🚀 from <b>Kolkata, India</b>
-        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+        I love building side projects 😍, and most of them are <b>Open source</b>.  </p>
     <div>
         <a href="https://twitter.com/code_xam" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
