@@ -17,25 +17,25 @@
        <a href="https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw/featured" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-        
-       
+
+
 </div>
 
 
 ### Spotify Playing 🎧
 [<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="Subham's Spotify Playing" width="350" />](https://open.spotify.com/user/31pm2uhwyu3xxnwiltzalwkbyibi)
-    
-   
+
+
 
 <div align="center">
- 
+
 
 
 ![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
- 
 
+<table>
 
-![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+<td> ![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 
 </div>
 <div>
@@ -69,7 +69,6 @@
         </p>
     </div>
 
-[![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
 
 
 
@@ -89,21 +88,25 @@
 
 
 <div>
-    <h2><img align="center" width="35"
+    <h2><img  width="35"
             src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
-    
+<table>
+<td align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-maity&theme=github_dark&show_icons=true" />
+
+[![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
+</table>
+
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-maity&theme=github_dark&show_icons=true" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subham-Maity&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight" />
+
+
 </tr>
 </table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight" />
-</p>  
+
 </div>
 
  <div>
