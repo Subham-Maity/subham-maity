@@ -21,6 +21,24 @@
        
 </div>
 
+
+    
+### Spotify Playing 🎧
+[<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="Ritik's Spotify Playing" width="350" />](https://open.spotify.com/user/314ga2uhgreejio6gahh3skgkody)
+    
+   
+
+<div align="center">
+ 
+
+
+![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+ 
+
+
+![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
+</div>
 <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
@@ -51,17 +69,6 @@
                 width="48" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
-    
-   
-
-<div align="center">
-
-![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-
-![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-
-</div>
-
 
 [![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
 
@@ -90,6 +97,7 @@
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-maity&theme=github_dark&show_icons=true" />
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subham-Maity&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
@@ -130,6 +138,8 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=react-js-bootcamp&theme=tokyonight" /></a>
         </p>
     </div>
+    
+
 
 
 
