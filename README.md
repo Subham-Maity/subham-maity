@@ -22,9 +22,8 @@
 </div>
 
 
-    
 ### Spotify Playing 🎧
-[<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="Subham's Spotify Playing" width="350" />](https://open.spotify.com/user/	31pm2uhwyu3xxnwiltzalwkbyibi)
+[<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="Subham's Spotify Playing" width="350" />](https://open.spotify.com/user/31pm2uhwyu3xxnwiltzalwkbyibi)
     
    
 
