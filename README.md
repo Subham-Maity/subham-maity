@@ -21,6 +21,11 @@
 
 </div>
 
+<img
+  src="https://github.com/Subham-Maity/Subham-Maity/blob/main/images/stat.svg"
+  alt="Xam WakaTime Activity"
+/>
+
 <table>
 <tr>
 <td> 
