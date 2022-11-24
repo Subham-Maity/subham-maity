@@ -5,7 +5,7 @@
         src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Blockchain developer</b> 🚀 from <b>Kolkata, India</b>
+        I am a <b>Blockchain developer</b> 🚀
         I love building side projects 😍, and most of them are <b>Open source</b>.  </p>
     <div>
         <a href="https://twitter.com/code_xam" target="_blank"><img alt="Twitter"
