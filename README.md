@@ -22,19 +22,6 @@
 </div>
 
 
-
-
-<div align="center">
-
-
-
-![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-
-
-
-![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-
-</div>
 <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
@@ -66,6 +53,19 @@
         </p>
     </div>
 
+<div align="center">
+
+
+
+![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+
+
+
+![Subham's GitHub activity graph](https://raw.githubusercontent.com/subham-maity/subham-maity/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
+</div>
+
+
 
 
 
@@ -90,15 +90,15 @@
 <table>
 <td align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-maity&theme=github_dark&show_icons=true" />
 
-[![Subham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subham-Maity&theme=react-dark)](https://github.com/Subham-Maity)
+
 </table>
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"  width="435"/>
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subham-Maity&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
- <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight" />
+
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight"  width="400" height="150" />
 
 
 </tr>
