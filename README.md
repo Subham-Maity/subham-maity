@@ -87,56 +87,25 @@
 <div>
     <h2><img  width="35"
             src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
-<table>
-<td align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-maity&theme=github_dark&show_icons=true" />
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-maity&theme=github_dark&show_icons=true" />
 
 
-</table>
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Subham-Maity&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"  width="435"/>
 
 
- <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight"  width="400" height="150" />
 
 
-</tr>
-</table>
+
+
+
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-Maity&theme=tokyonight"  />
+
+
+
 
 </div>
 
- <div>
-        <h2><img align="center" width="35"
-                src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
-            Repositories</h2>
-        <p align="center">
-        <a href="https://github.com/Subham-Maity/twitter-blockchain-web3">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=twitter-blockchain-web3&theme=tokyonight" /></a>    
-<a href="https://github.com/Subham-Maity/textutils">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=textutils&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/hostel-management-system">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=hostel-management-system&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/RandomSentenceGenerator">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=RandomSentenceGenerator&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/xamnewz">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=xamnewz&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/cryptoapp">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=cryptoapp&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/Android-Basic-Apps-Java">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=Android-Basic-Apps-Java&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/Blockchain-Book-vol2">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=Blockchain-Book-vol2&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/solidity-tutorial">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=solidity-tutorial&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/ethereum-tutorial">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=ethereum-tutorial&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/html-tutorial-for-beginners">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=html-tutorial-for-beginners&theme=tokyonight" /></a>
-<a href="https://github.com/Subham-Maity/react-js-bootcamp">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subham-Maity&repo=react-js-bootcamp&theme=tokyonight" /></a>
-        </p>
-    </div>
+
     
 
 
