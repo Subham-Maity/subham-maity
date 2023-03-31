@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
 <div align="center">
     <h1> Hey, I am <a href="https://subham-maity.github.io/subham/" target="_blank">Subham  </a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
@@ -108,7 +110,7 @@
 
     
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
 
 
