@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 <div align="center">
     <h1> Hey, I am <a href="https://subham-maity.github.io/subham/" target="_blank">Subham  </a> <img
